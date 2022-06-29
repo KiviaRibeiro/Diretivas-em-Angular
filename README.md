@@ -1,4 +1,4 @@
-<h1>Foi criado para estudo de diretivas</h1>
+<h1>Projeto criado para estudo de diretivas</h1>
 
 # Myapp
 
