@@ -1,27 +1,14 @@
+<h1>Foi criado para estudo de diretivas</h1>
+
 # Myapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
+Projeto criado em [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
-## Development server
+## Diretivas de atributos!
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Alteram a aparência ou o comportamento de um elemento, componente ou outra diretiva, como por exemplo, NgClass e NgStyle.
 
-## Code scaffolding
+## Diretivas estruturais!
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Modificam o layout adicionando ou removendo elementos do DOM, como por exemplo, NgIf e NgFor.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
