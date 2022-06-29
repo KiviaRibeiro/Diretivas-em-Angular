@@ -1,0 +1,11 @@
+div.alert{
+    height: 80px;
+    font-size: 35px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
